@@ -1,0 +1,74 @@
+{
+  "Skins":{
+    "item_0":{
+      "isActive": true,
+      "cost":0
+    },
+    "item_1":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_2":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_3":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_4":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_5":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_6":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_7":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_8":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_9":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_10":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_11":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_12":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_13":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_14":{
+      "isActive": false,
+      "cost":100
+    },
+    "item_15":{
+      "isActive": false,
+      "cost":100
+    }
+  },
+  "Hats":{
+    "item_0":{
+      "isActive": false,
+      "cost":0
+    }
+  }
+}

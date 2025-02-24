@@ -1,0 +1,58 @@
+{
+  "PlayerData": {
+    "MainInfo": {
+      "Money": 0,
+      "Diamond": 0,
+      "PlayerName": "User_0001",
+      "Player_Icon_ID": 0,
+      "PlayerLevel": 0,
+      "PlayerLevelValue": 0
+    },
+    "Statistic":{
+      "All_Match_Count":0,
+      "Win_Match_Count":0,
+      "Defeat_Match_Count":0,
+      "Kills_Count":0,
+      "Death_Count":0
+    },
+    "PlayerWeapon":{
+      "weapon_melee":{
+        "status_equipped":false,
+        "weapon_id":0
+      },
+      "weapon_pistol":{
+        "status_equipped":false,
+        "weapon_id":0
+      },
+      "weapon_pistol_auto":{
+        "status_equipped":false,
+        "weapon_id":0
+      },
+      "weapon_shotgun":{
+        "status_equipped":false,
+        "weapon_id":0
+      },
+      "weapon_auto_rifle":{
+        "status_equipped":false,
+        "weapon_id":0
+      },
+      "weapon_rifle":{
+        "status_equipped":false,
+        "weapon_id":0
+      },
+      "weapon_grenade_launcher":{
+        "status_equipped":false,
+        "weapon_id":0
+      }
+    },
+    "PlayerSkin":{
+      "Skin_id":0,
+      "Hat_id":-1
+    },
+    "PlayerConsumables":{
+      "First_Aid":0,
+      "Shield":0,
+      "Grenade":0
+    }
+  }
+}
